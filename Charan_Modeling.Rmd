@@ -1,5 +1,5 @@
 ---
-title: "Charan_Model"
+title: "Model"
 output: html_document
 date: "2023-12-03"
 ---
